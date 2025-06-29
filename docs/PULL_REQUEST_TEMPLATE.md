@@ -4,4 +4,4 @@
 "- [ ] Bug fix" 
 "- [ ] New feature" 
 "## Checklist" 
-[!Work split]
+"- [] Self Code Review"
