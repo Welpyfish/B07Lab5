@@ -5,3 +5,5 @@
 "- [ ] New feature" 
 "## Checklist" 
 "- [ ] Self Code Review"
+@Jiaxing rectangle class implementation.
+@Arenencha rectangle JUnit testcase.
